@@ -57,8 +57,10 @@ Unlike simple face filters, this project tracks and transforms your **entire bod
 4. Watch yourself transform into Iron Man in real-time!
 
 ## 📸 Demo
+<p align="center">
+  <img src="./ironman.jpg" alt="Ironman Demo" width="200" hieght="400">
+</p>
 
-[Add screenshots or GIF here]
 
 ## 🤝 Contributing
 
